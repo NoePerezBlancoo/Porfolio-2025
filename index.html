@@ -313,13 +313,18 @@
                         <p data-section="contacto" data-value="text">Completa el siguiente formulario y me pondré en contacto contigo lo antes posible.</p>
                     </div>
     
-                    <form id="form" class="form-contact" action="send_email.php" method="POST">
+                    <form id="form" class="form-contact" action="https://formsubmit.co/noeperezblanco1992@gmail.com" method="POST">
+                        <input type="hidden" name="_captcha" value="false">
+                        <input type="hidden" name="_next" value="https://noeperezblancoo.github.io/Porfolio-2025/#contacto">
+                    
                         <input id="nombre" type="text" name="name" placeholder="Nombre | Name" required>
                         <input id="email" type="email" name="email" placeholder="E-mail" required>
-                        <input id="asunto" type="text" name="affair" placeholder="Asunto | Subject" required>
+                        <input id="asunto" type="text" name="subject" placeholder="Asunto | Subject" required>
                         <textarea id="mensaje" cols="20" rows="4" name="message" placeholder="Mensaje | Message" required></textarea>
+                        
                         <button id="btn-enviar" type="submit">Enviar</button>
                     </form>
+                    
                 </div>
             </div>
         </section>
