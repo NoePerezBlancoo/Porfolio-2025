@@ -1,0 +1,52 @@
+{
+    "menu": {
+        "item2": "About Me",
+        "item3": "Skills",
+        "item4": "Education",
+        "item5": "Projects",
+        "item6": "Contact"
+    },
+
+    "home": {
+        "home_text-1": "Hello! I'm",
+        "home_text-3": "Software Developer",
+        "parrafo-info": "Graduate in Web Application Development, specialized in software structure and development, from database connections to library optimization or UI optimization for a better user experience.",
+        "cv_button": "Download CV",
+        "contact_button": "Contact"
+    },
+
+    "sobre-mi": {
+        "title": "About Me",
+        "texto_sobreMi": "I am a graduate in Web Application Development, with a specialized focus on Full-Stack development.<br><br>I grew professionally in a small company, where I worked on all key aspects of development: structure design, backend, frontend, testing, and security.<br><br>Thanks to this comprehensive experience, I developed skills in multiple areas. I participated in the development of an application for the company's internal management from scratch. Currently, I specialize in:<br><br>- Data analysis and development with Python.<br><br>- Application development with PHP.<br><br>- Database management and design with SQL and Oracle.<br><br>- Version control with Git."
+    },
+
+    "habilidades": {
+        "title": "Skills"
+    },
+
+    "formacion": {
+        "title": "Education",
+        "formacion1": "Higher Studies",
+        "tiempo-formacion1": "2011 - 2013",
+        "formacion2": "Master's in Robotics and Industrial Automation", 
+        "tiempo-formacion2": "2017 - 2018",
+        "formacion3": "Web Application Development",
+        "tiempo-formacion3": "2021 - 2023"
+    },
+
+    "proyectos": {
+        "title": "Projects",
+        "title-proyecto1": "Hangman Game",
+        "info-proyecto1": "A game where the user must guess the secret word within a limited number of attempts. The word is randomly selected by the program, and the user loses when the gallows are completed.",
+        "title-proyecto2": "Portfolio",
+        "info-proyecto2": "My personal web portfolio, showcasing some of my most notable projects, technical skills, and a bit about my education.",
+        "title-proyecto3": "Text Encryptor",
+        "info-proyecto3": "An encryptor where the user can enter text, and the encryptor encodes it using predefined keys. The encryptor also allows text decryption."
+    },
+
+    "contacto": {
+        "title": "Contact",
+        "text": "Fill out the form below, and I will get in touch with you as soon as possible.",
+        "btn-enviar": "Send"
+    }
+}

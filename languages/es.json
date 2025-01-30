@@ -1,0 +1,52 @@
+{
+    "menu": {
+        "item2": "Sobre mí",
+        "item3": "Habilidades",
+        "item4": "Formación",
+        "item5": "Proyectos",
+        "item6": "Contacto"
+    },
+
+    "home": {
+        "home_text-1": "Hola! Soy",
+        "home_text-3": "Desarrollador de Software",
+        "parrafo-info": "Graduado como Desarrollo de Aplicaciones Web, especializado en estructura y desarrollo de Software, desde las conexiones a la BD a la optimizacion de librerias o optimizacion de interfaz para una mejor experiencia de Ususario",
+        "cv_button": "Descargar CV",
+        "contact_button": "Contacto"
+    },
+
+    "sobre-mi": {
+        "title": "Sobre mí",
+        "texto_sobreMi": "Soy graduado como Desarrollador de Aplicaciones Web, con un enfoque especializado en desarrollo Full-Stack.<br><br>Crecí profesionalmente en una empresa pequeña, donde trabajé en todos los aspectos clave del desarrollo: diseño de estructuras, backend, frontend, testing y seguridad.<br><br>Gracias a esta experiencia integral, desarrollé habilidades en múltiples áreas. Participé en el desarrollo desde cero de una aplicación para la gestión interna de la empresa.Actualmente, me especializo en:<br><br>- Análisis de datos y desarrollo con Python.<br><br>- Creación de aplicaciones con PHP.<br><br>- Gestión y diseño de bases de datos con SQL y Oracle.<br><br>- Control de versiones con Git."
+    },
+
+    "habilidades": {
+        "title": "Habilidades"
+    },
+
+    "formacion": {
+        "title": "Formación",
+        "formacion1": "Estudios superiores",
+        "tiempo-formacion1": "2011 - 2013",
+        "formacion2": "Master en Robotica y Automatismo industriales", 
+        "tiempo-formacion2": "2017 - 2018",
+        "formacion3": "Desarrollo de Aplicaciones Web",
+        "tiempo-formacion3": "2021 - 2023"
+    },
+
+    "proyectos": {
+        "title": "Proyectos",
+        "title-proyecto1": "Juego del Ahorcado",
+        "info-proyecto1": "Un juego donde el usuario debe adivinar la palabra secreta con un cierto número de oportunidades. La palabra se escoge de forma aleatoria por el programa y el usuario perderá en el momento en que la horca se complete.",
+        "title-proyecto2": "Portafolio",
+        "info-proyecto2": "Mi portafolio web personal, donde se encuentran algunos de mis proyectos más destacados, mis habilidades técnicas y un poco sobre mi formación.",
+        "title-proyecto3": "Encriptador de Texto",
+        "info-proyecto3": "Un ecriptador donde el usuario puede escribir un texto y el encriptador lo codifica con llaves ya programadas. El encriptador también permite desencriptar el texto."
+    },
+
+    "contacto": {
+        "title": "Contacto",
+        "text": "Completa el siguiente formulario y me pondré en contacto contigo lo antes posible.",
+        "btn-enviar": "Enviar"
+    }
+}
