@@ -7,10 +7,10 @@
 
 ---
 
-![portafolio-presentacion]()
+![portafolio-presentacion](https://noeperezblancoo.github.io/Porfolio-2025/)
 
 ---
 
-[**Link del sitio web** ✌]()
+[**Link del sitio web** ✌](https://noeperezblancoo.github.io/Porfolio-2025/)
 ---
 # Porfolio-2025
